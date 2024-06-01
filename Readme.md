@@ -1,4 +1,1 @@
-"# CoffeeHut Frontend Features" 
-"- Product Catalog" 
-"- Discount Plans" 
-"- Testimonials" 
+CoffeeHut_Frontend
